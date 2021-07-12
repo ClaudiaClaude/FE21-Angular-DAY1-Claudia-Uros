@@ -12,4 +12,9 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  whatever = 'Another kind of text wtw wtw';
+  trial = 'text2';
+
+  dest1 = 'Shit tall mountain';
+
 }
